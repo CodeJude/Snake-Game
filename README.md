@@ -5,4 +5,5 @@ First create a virtual environment using
 ```
 python -m venv .venv
 ```
-Run the main.py file
+
+Then run your main.py file
