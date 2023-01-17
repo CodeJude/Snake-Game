@@ -1,5 +1,5 @@
 # Snake-Game-
-A snake game project built with all its functionality using python 
+A snake game project built with all its functionality using Turtle python 
 
 First create a virtual environment using 
 ```
